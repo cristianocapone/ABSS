@@ -1,4 +1,4 @@
-# Adaptive Behavior with Stable Synapses (ADBSS)
+# Adaptive Behavior with Stable Synapses (ABSS)
 
 This is the accompanying source code of the paper: "*Adaptive Behavior with Stable Synapses*", [arXiv](https://arxiv.org/pdf/2404.07150), by Cristiano Capone, Luca Falorsi, Maurizio Mattia.
 
