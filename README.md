@@ -1,3 +1,5 @@
+This code reproduces the results reported in "Adaptive behavior with stable synapses", authors: Cristiano Capone, Luca Falorsi, Maurizio Mattia, https://arxiv.org/abs/2404.07150 (2024).
+
 Please give credit to this paper if you use or modify the code in a derivative work. This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 To easily replicate the experiments presented in the paper we provide Jupyter Notebooks that can be run on their own.
